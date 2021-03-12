@@ -14,7 +14,7 @@ const Tabs = (topics) => {
   //   <div class="tab">bootstrap</div>
   //   <div class="tab">technology</div>
   // </div>
-  //
+  // test test
 
   const div = document.createElement("div");
   div.classList.add("topics");
